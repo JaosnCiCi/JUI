@@ -1,5 +1,5 @@
 /**
- *
+ *分页控件
  */
 var mixinMethod = {
   data () {
